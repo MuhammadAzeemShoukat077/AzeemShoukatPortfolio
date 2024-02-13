@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Shopping Cart with Stripe Payment Gateway",
+    "imageSrc": "projects/project1.png",
+    "description": "Online Platform for users where they can shopping and can pay with debit card.",
+    "skills": ["React", "BootStrap","Stripe"],    
+    "source": "https://github.com/MuhammadAzeemShoukat077/E-store-and-stripe-payment-gateway"
+  },
+  {
+    "title": "Backend Code of Shopping Cart",
+    "imageSrc": "projects/backend.png",
+    "description": "Backend code of shopping cart,authentication , checkout & pay bills using debit card.",
+    "skills": ["MongoDB", "Express", "Node", "Stripe"],
+    "source": "https://github.com/MuhammadAzeemShoukat077/E-store-with-stripe-payment-gateway-backend"
+  },
+  {
+    "title": "SQL Database Project/basics",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["MySql Database"],
+    "source": "https://github.com/MuhammadAzeemShoukat077/SQL"
+  }
+]

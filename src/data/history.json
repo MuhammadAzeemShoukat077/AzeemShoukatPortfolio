@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "ExpertsCloud",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on multipple projests, ", "Frontend/Backend integration", "API development", "Unit testing", "Code review",  "Client communication", "Requirement gathering"],
+    "imageSrc": "history/expertscloud.png"
+  },
+  {
+    "role": "Graduated",
+    "organisation": "Comsats University Lahore",
+    "startDate": "Feb, 2020",
+    "endDate": "Feb, 2024",
+    "experiences":["DSA, OOP, Database Systems,Web-development, mobile app development", "Designed web Apps", "Developed RESTful APIs", "Developed full stack applications","Final year projecct(Android App:FitTrack Fitness App) gives feedback to the user on a real time accessing device's camera, posture correction/estimation." ],
+    "imageSrc": "history/comsats.png"
+  }
+]
