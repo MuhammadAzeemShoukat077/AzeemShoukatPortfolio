@@ -78,7 +78,7 @@
   }
 
   .aboutImage {
-    display: none;
+    display:flex;
   }
 
   .aboutItems {
